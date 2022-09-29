@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  padding: 16px;
+  padding-top: 0;
+}
+
+.profile label {
+  margin-right: 8px;
+}
+
+h2 {
+  margin-left: 16px;
+}
+
+.commentBoxContainer {
+  display: flex;
+}
